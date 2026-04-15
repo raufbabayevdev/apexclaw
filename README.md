@@ -17,58 +17,9 @@
   <a href="https://www.reddit.com/r/apexclawlabs/"><img src="https://img.shields.io/badge/Reddit-r%2Fapexclawlabs-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit: r/apexclawlabs" /></a>
 </p>
 
-<p align="center">
-Built by students and members of the Harvard, MIT, and Sundai.Club communities.
-</p>
-
-<p align="center">
-  🌐 <strong>Languages:</strong>
-  <a href="README.md">🇺🇸 English</a> ·
-  <a href="docs/i18n/zh-CN/README.md">🇨🇳 简体中文</a> ·
-  <a href="docs/i18n/ja/README.md">🇯🇵 日本語</a> ·
-  <a href="docs/i18n/ko/README.md">🇰🇷 한국어</a> ·
-  <a href="docs/i18n/vi/README.md">🇻🇳 Tiếng Việt</a> ·
-  <a href="docs/i18n/tl/README.md">🇵🇭 Tagalog</a> ·
-  <a href="docs/i18n/es/README.md">🇪🇸 Español</a> ·
-  <a href="docs/i18n/pt/README.md">🇧🇷 Português</a> ·
-  <a href="docs/i18n/it/README.md">🇮🇹 Italiano</a> ·
-  <a href="docs/i18n/de/README.md">🇩🇪 Deutsch</a> ·
-  <a href="docs/i18n/fr/README.md">🇫🇷 Français</a> ·
-  <a href="docs/i18n/ar/README.md">🇸🇦 العربية</a> ·
-  <a href="docs/i18n/hi/README.md">🇮🇳 हिन्दी</a> ·
-  <a href="docs/i18n/ru/README.md">🇷🇺 Русский</a> ·
-  <a href="docs/i18n/bn/README.md">🇧🇩 বাংলা</a> ·
-  <a href="docs/i18n/he/README.md">🇮🇱 עברית</a> ·
-  <a href="docs/i18n/pl/README.md">🇵🇱 Polski</a> ·
-  <a href="docs/i18n/cs/README.md">🇨🇿 Čeština</a> ·
-  <a href="docs/i18n/nl/README.md">🇳🇱 Nederlands</a> ·
-  <a href="docs/i18n/tr/README.md">🇹🇷 Türkçe</a> ·
-  <a href="docs/i18n/uk/README.md">🇺🇦 Українська</a> ·
-  <a href="docs/i18n/id/README.md">🇮🇩 Bahasa Indonesia</a> ·
-  <a href="docs/i18n/th/README.md">🇹🇭 ไทย</a> ·
-  <a href="docs/i18n/ur/README.md">🇵🇰 اردو</a> ·
-  <a href="docs/i18n/ro/README.md">🇷🇴 Română</a> ·
-  <a href="docs/i18n/sv/README.md">🇸🇪 Svenska</a> ·
-  <a href="docs/i18n/el/README.md">🇬🇷 Ελληνικά</a> ·
-  <a href="docs/i18n/hu/README.md">🇭🇺 Magyar</a> ·
-  <a href="docs/i18n/fi/README.md">🇫🇮 Suomi</a> ·
-  <a href="docs/i18n/da/README.md">🇩🇰 Dansk</a> ·
-  <a href="docs/i18n/nb/README.md">🇳🇴 Norsk</a>
-</p>
-
 ApexClaw is a personal AI assistant you run on your own devices. It answers you on the channels you already use (WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Matrix, IRC, Email, Bluesky, Nostr, Mattermost, Nextcloud Talk, DingTalk, Lark, QQ, Reddit, LinkedIn, Twitter, MQTT, WeChat Work, and more). It has a web dashboard for real-time control and can connect to hardware peripherals (ESP32, STM32, Arduino, Raspberry Pi). The Gateway is just the control plane — the product is the assistant.
 
 If you want a personal, single-user assistant that feels local, fast, and always-on, this is it.
-
-<p align="center">
-  <a href="https://apexclawlabs.ai">Website</a> ·
-  <a href="docs/README.md">Docs</a> ·
-  <a href="docs/architecture.md">Architecture</a> ·
-  <a href="#quick-start">Getting Started</a> ·
-  <a href="#migrating-from-openclaw">Migrating from OpenClaw</a> ·
-  <a href="docs/ops/troubleshooting.md">Troubleshoot</a> ·
-  <a href="https://discord.com/invite/wDshRVqRjx">Discord</a>
-</p>
 
 > **Preferred setup:** run `apexclaw onboard` in your terminal. ApexClaw Onboard guides you step by step through setting up the gateway, workspace, channels, and provider. It is the recommended setup path and works on macOS, Linux, and Windows (via WSL2). New install? Start here: [Getting started](#quick-start)
 
